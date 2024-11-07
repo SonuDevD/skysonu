@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Sonu Kumar
+## I love creating website and softwares
+## Passionate about learning software development
 
 <!--
 **skysonu/skysonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
